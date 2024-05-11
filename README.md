@@ -1,9 +1,15 @@
 👋 Welcome to My GitHub Profile! 🚀
-🎉My name is Czakó Orsolya
+![coding-language](https://github.com/orsiczako/orsiczako/assets/146200985/3bede2b4-dae5-48fb-8b3b-c4eeda4972dc)
+
+
+
 💻I'm a passionate computer science major in University of Debrecen.
 
 
-![image](https://github.com/orsiczako/orsiczako/assets/146200985/5e3c4716-d96d-45bd-85b8-4c4c84fb0597)
+
+
+![image](https://github.com/orsiczako/orsiczako/assets/146200985/2e3282da-1ed5-4e91-8a81-0f1d4fdf54b3)
+
 
 
 
