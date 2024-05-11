@@ -8,7 +8,8 @@
 
 
 
-![image](https://github.com/orsiczako/orsiczako/assets/146200985/5ee023a6-786a-4a2b-b6ce-599e4c766ff4)
+![coding](https://github.com/orsiczako/orsiczako/assets/146200985/2e73ef21-8713-44f2-b13f-637a4506f7b0)
+
 
 
 
