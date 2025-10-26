@@ -35,6 +35,15 @@
       <path d="M40 0 L0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
     </pattern>
 
+    <!-- egyszerű text glow filter -->
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="g1"/>
+      <feMerge>
+        <feMergeNode in="g1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
   <!-- Background gradient -->
@@ -76,6 +85,18 @@
     <path d="M1420 460 h60 v-30 h30"/>
   </g>
 
-  <!-- optional translucent overlay to darken center for text readability -->
-  <rect x="220" y="120" width="1480" height="360" rx="16" fill="black" opacity="0.06"/>
+  <!-- translucent central panel to increase contrast for text -->
+  <rect x="240" y="120" width="1440" height="360" rx="16" fill="black" opacity="0.08"/>
+
+  <!-- Szöveg réteg (középre igazítva) -->
+  <g transform="translate(960,300)" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif">
+    <!-- glow -->
+    <text y="50" font-size="70" fill="#caa3ff" opacity="0.35" filter="url(#textGlow)">👾 Orsolya Czakó — Software Engineer 👾 </text>
+    <!-- főcím -->
+    <text y="50" font-size="70" fill="#ffffff" font-weight="700">👾 Orsolya Czakó — Software Engineer 👾 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
+</text>
+
+    
+  </g>
+
 </svg>
