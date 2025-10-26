@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="600" viewBox="0 0 1920 600" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="375" viewBox="0 0 1920 600" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f0a29"/>
@@ -35,7 +35,6 @@
       <path d="M40 0 L0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
     </pattern>
 
-    <!-- egyszerű text glow filter -->
     <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="6" result="g1"/>
       <feMerge>
@@ -43,29 +42,24 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
   </defs>
 
-  <!-- Background gradient -->
   <rect width="100%" height="100%" fill="url(#bgGrad)"/>
 
-  <!-- soft glows -->
   <g filter="url(#fblur)">
     <circle cx="420" cy="170" r="240" fill="url(#glowA)"/>
     <circle cx="1480" cy="380" r="180" fill="url(#glowB)"/>
   </g>
 
-  <!-- diagonal neon streaks -->
   <g stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.95">
     <path d="M-200 520 L600 -100" stroke="url(#neonLine)" stroke-width="6" opacity="0.55"/>
     <path d="M-100 400 L700 -220" stroke="url(#neonLine)" stroke-width="4" opacity="0.33"/>
     <path d="M400 700 L1700 -80" stroke="url(#neonLine)" stroke-width="5" opacity="0.45"/>
   </g>
 
-  <!-- faint grid overlay -->
   <rect width="100%" height="100%" fill="url(#grid)" opacity="0.65"/>
 
-  <!-- subtle dots / stars -->
+
   <g fill="#ffffff" opacity="0.08">
     <circle cx="120" cy="80" r="1.4"/>
     <circle cx="260" cy="40" r="1.8"/>
@@ -77,7 +71,6 @@
     <circle cx="1600" cy="480" r="1.5"/>
   </g>
 
-  <!-- small circuit-like lines for futurism -->
   <g stroke="#c9b3ff" stroke-opacity="0.18" stroke-width="2" fill="none">
     <path d="M200 520 h80 v-30 h40"/>
     <path d="M300 480 h200 v-40 h40"/>
@@ -85,18 +78,12 @@
     <path d="M1420 460 h60 v-30 h30"/>
   </g>
 
-  <!-- translucent central panel to increase contrast for text -->
   <rect x="240" y="120" width="1440" height="360" rx="16" fill="black" opacity="0.08"/>
 
-  <!-- Szöveg réteg (középre igazítva) -->
   <g transform="translate(960,300)" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, Helvetica, sans-serif">
-    <!-- glow -->
-    <text y="50" font-size="70" fill="#caa3ff" opacity="0.35" filter="url(#textGlow)">👾 Orsolya Czakó — Software Engineer 👾 </text>
-    <!-- főcím -->
-    <text y="50" font-size="70" fill="#ffffff" font-weight="700">👾 Orsolya Czakó — Software Engineer 👾 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
-</text>
+    <text y="50" font-size="70" fill="#caa3ff" opacity="0.35" filter="url(#textGlow)">👾 Orsolya Czakó — Software Engineer 👾</text>
+    <text y="50" font-size="70" fill="#ffffff" font-weight="700">👾 Orsolya Czakó — Software Engineer 👾</text>
 
-    
+    <text y="100" font-size="20" fill="#e6dfff" opacity="0.9">AI • frontend • design</text>
   </g>
-
 </svg>
