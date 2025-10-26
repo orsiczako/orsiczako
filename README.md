@@ -1,4 +1,4 @@
-![Welcome](./background.svg) <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
+![Welcome](./background.svg) 
 
 ---
 
@@ -25,5 +25,7 @@ I design and build reliable, maintainable systems and clean user experiences. My
 - Email: czakorsi@gmail.com
 - LinkedIn: 
 - Personal site: COMING SOON
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
 
 
