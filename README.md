@@ -23,7 +23,7 @@ I design and build reliable, maintainable systems and clean user experiences. My
 
 ## Contact
 - Email: czakorsi@gmail.com
-- LinkedIn: linkedin.com/in/czakó-orsolya-908128257
+- LinkedIn: [linkedin.com/in/czakó-orsolya-908128257](https://linkedin.com/in/czakó-orsolya-908128257)  
 - Personal site: COMING SOON
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
