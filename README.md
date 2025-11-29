@@ -42,7 +42,6 @@
 
 </div>
 
-![GitHub Stats](https://githubstats-fv7a4tue6-czako-orsolyas-projects.vercel.app/api?username=orsiczako&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orsiczako&theme=radical)
 
 
