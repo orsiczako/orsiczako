@@ -42,8 +42,8 @@
 
 </div>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=orsiczako&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=orsiczako&theme=radical)
+![GitHub Stats](https://githubstats-fv7a4tue6-czako-orsolyas-projects.vercel.app/api?username=orsiczako&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orsiczako&theme=radical)
 
 
 
