@@ -57,9 +57,10 @@ I design and build reliable, maintainable systems and clean user experiences. My
 ---
 
 ## Contact
+[![Gmail](https://img.shields.io/badge/czakorsi@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:czakorsi@gmail.com)
 
-* Email: [czakorsi@gmail.com](mailto:czakorsi@gmail.com)
-* LinkedIn: [linkedin.com/in/czakó-orsolya-908128257](https://linkedin.com/in/czakó-orsolya-908128257)
-* Personal site: COMING SOON
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/czakó-orsolya-908128257)
+
+Personal site: COMING SOON
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZncm40NXJvd2UzY3c0OXpiankxMGR4NmUyemgxZzh1ZHkzejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YrTXcn2uKFbJvVvJgY/giphy.gif" alt="neon gif" width="64" />
