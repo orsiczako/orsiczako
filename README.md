@@ -30,14 +30,12 @@
 [![Railway](https://img.shields.io/badge/Railway-FF0066?style=for-the-badge\&logo=railway\&logoColor=white)](https://railway.app)
 [![Render](https://img.shields.io/badge/Render-5C4EE5?style=for-the-badge\&logo=render\&logoColor=white)](https://render.com)
 
-
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge\&logo=webstorm\&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge\&logo=jetbrains\&logoColor=white)](https://www.jetbrains.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)](https://www.canva.com/)
-
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)](https://jestjs.io/)
 
 </div>
@@ -45,20 +43,25 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orsiczako&theme=radical)
 
 
-
-
-
----
-
 ## About
 
 I design and build reliable, maintainable systems and clean user experiences. My focus is on backend architecture, API design and performance, while contributing to frontend and deployment automation where it delivers value.
 
 ---
 
-## Contact
-[![Gmail](https://img.shields.io/badge/czakorsi@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:czakorsi@gmail.com)
+## Featured Projects
 
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **[movie_recommender]** | **AI-powered movie recommender.** Chat with main characters or an AI film expert to get personalized recommendations via the Gemini API. | ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/orsiczako/movie_recommender) |
+| **[season_analysis]** | **Under development.** Facial analysis for seasonal color typing. Uses custom-trained models, image processing, and the Gemini API. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![EfficientNetB3](https://img.shields.io/badge/EfficientNetB3-FF6F00?style=flat) ![ImageDataGenerator](https://img.shields.io/badge/ImageDataGenerator-2C3E50?style=flat) ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/orsiczako/season-analysis) |
+| **[pdf_analyser]** | Analyzes PDF documents (scanned or digital) to extract nutritional value data using OCR and visual processing. | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-blue?style=flat&logo=tesseract&logoColor=white) ![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)](https://github.com/orsiczako/pdf_analyser) |
+
+---
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/czakorsi@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:czakorsi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/czakó-orsolya-908128257)
 
 Personal site: COMING SOON
