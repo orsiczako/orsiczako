@@ -44,10 +44,25 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orsiczako&theme=radical)
 
+---
 
 ## About
 
-I design and build reliable, maintainable systems and clean user experiences. My focus is on backend architecture, API design and performance, while contributing to frontend and deployment automation where it delivers value.
+I am a Full Stack Developer with a specialized focus on the **Node.js** and **Vue.js** ecosystems. My work centers on bridging the gap between robust web architecture and advanced Artificial Intelligence. I design maintainable systems that leverage the latest machine learning capabilities to solve complex problems.
+
+My expertise covers the following key areas:
+
+* **Artificial Intelligence & Machine Learning**
+    * **Large Language Models (LLMs):** Extensive experience in training, fine-tuning, and optimizing custom language models for specific domain tasks.
+    * **Computer Vision:** Developing and deploying custom image processing models, facial analysis systems, and object detection algorithms.
+    * **Generative AI:** Integrating and orchestrating Generative AI flows (text-to-text, multimodal) into production applications.
+    * **OCR & Data Extraction:** Building automated pipelines using optical character recognition to digitize and analyze unstructured data from documents.
+
+* **Full Stack Engineering**
+    * **Backend Architecture:** Designing high-performance REST APIs and microservices using Node.js and Express.
+    * **Frontend Development:** Building reactive, user-centric interfaces with Vue.js that handle complex data visualization.
+    * **Database Management:** Architecting scalable data schemas across SQL (PostgreSQL, MySQL) and NoSQL environments.
+    * **DevOps & Automation:** Implementing CI/CD pipelines (GitHub Actions) and containerization (Docker) to ensure reliable deployments.
 
 ---
 
